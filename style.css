@@ -50,7 +50,7 @@ div#avatar {
     border-radius: 50%;
     display: block;      
     margin: 20px auto 5px auto;
-    background-image: url(https://starter.pzla.pl/foto/283689.jpg?m=20230529102818);
+    background-image: url(tak2.jpg);
     background-size: cover;    
     background-position: center;
     background-repeat: no-repeat; 
@@ -105,5 +105,4 @@ div#bio {
 #main div i {
     margin-right: 10px;   
     font-size: 20px;     
-
 }
